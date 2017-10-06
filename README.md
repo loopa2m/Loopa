@@ -1,3 +1,3 @@
 # Loopa
 
-text side by side
+text side by side.
